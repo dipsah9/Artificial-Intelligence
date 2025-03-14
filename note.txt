@@ -1,0 +1,51 @@
+1. What is NLP?
+    => NLP enables machine to understand, interpret and respond to human language.  
+
+Key Components of NLP   
+    -Tokenization
+    -Part of Speech Tagging
+    -Named Entity Recognition
+    -Syntax and parsing
+    -Semantics
+
+Branches of NLP
+    -Speech Technologies
+    -Language Processing
+
+Speech Technologies: 
+    ASR (Automatic speech Recognition):
+        -Converts speech to text
+    TTS (Text to Speech)
+        -Converts Text to speech
+
+Understanding Language Processing Technologies
+    1) Machine Translation
+    2) Question Answerin
+    3) Web Search and Text Classification
+
+Rational Decision: 
+    - logically, systematically and based on availabe information. 
+    -  Aim to achieve best possible outcomes. 
+    -   Analyse cost , benefits, risks and alternatives to arrive an optimal solution. 
+
+AI agent: 
+    -System that percieves its environment and acts to achieve a goal. 
+    -plan ahead.
+
+Types of AI agent: 
+    Reflex Agent: 
+        This agent make the decision based on the current input rather than analysing the best possible outcomes based on previous data. 
+
+    Rational Agent: 
+        Makes best decision based on the availabe old data and find out the best possible outcomes. 
+    
+
+Can Reflex Agent Ever be Rational?
+    - yes, but only in limited environment. To be rational we need to store the previous decision made and planning and goal based decision making 
+        which are not the components of the reflex agent. 
+    
+Lets move to Planning and Replanning. 
+    -Sequence of Actions to achieve a goal before execution begins. 
+    -Different from Reflex Agents 
+    -It consider future consequences. 
+ 
