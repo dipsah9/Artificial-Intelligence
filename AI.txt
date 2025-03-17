@@ -7,4 +7,35 @@ Types Of AI:
     Theory of Mind AI - Understands emotions, beliefs
     Self-Aware AI - AI with conciousness
 
+AI problem - solving approaches
+
+Search Algorithms - BFS, DFS, A*
+Knowledge Representation - Logic based AI 
+Machine learning - Supervised, Unsupervised, Reinforcement Learning. 
+
+Search Algorithms
+    - Breadth First Search
+    - Depth First Search 
+
+
+A star Search Algorithm: 
+    Why do we need A Search? 
+        - Bfs find the shortest path within the unweighted graph. 
+        - A star is used in pathfinding in weighted graphs, commonly  seen in AI, games and robotics. 
+        - It combines: 
+            g(n) : Cost from start to current node. 
+            h(n) : Heuristic estimate from current node to goal. 
+            f(n) = g(n) + h(n)
+            Example: 
+            S . . X .
+            . X . X .
+            . . . . G
+
+        Imagine we have this grid map where S is the starting point and X are the blocks and our goal is to find the 
+        shortest distance between S and G while avoiding obstacles.    
+    From the given graph our expected result will be: 
+        A* Path: ['S', 'A', 'C', 'G'] 
+    
+
+
 
