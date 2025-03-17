@@ -1,0 +1,10 @@
+What is AI?
+AI is the simualtion of human intelligence in machines. It enables computers to learn, reason and make decision. 
+
+Types Of AI: 
+    Reactive AI - No memory, only reacts to current input. 
+    Limited memory AI - Can learn from past data but does not retain it permanently
+    Theory of Mind AI - Understands emotions, beliefs
+    Self-Aware AI - AI with conciousness
+
+
